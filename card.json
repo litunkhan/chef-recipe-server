@@ -1,0 +1,387 @@
+{
+    "chefs": [
+      { "id": 1,
+        "picture": "https://images.hola.com/us/images/026c-12fb8fbada43-2822ed1eafa6-1000/horizontal-1200/top-chef-season-11.jpg",
+        "name": "Carlos Gomez",
+        "years_of_experience": 10,
+        "num_of_recipes": 30,
+        "likes": 8000,
+        "cuisine": "Mexican",
+        "specialty_dish": "Chiles en nogada",
+        "favorite_ingredient": "Mole",
+        "cookbook_published": false,
+        "awards": ["Best Young Chef 2019"],
+        "restaurant_name": "El Sabor de Mexico",
+        "city": "Guadalajara",
+        "bio":"Carlos Gomez is a celebrated chef hailing from Guadalajara, Mexico.With over 10 years of experience in the culinary industry, he has established himself as a prominent figure in the Mexican cuisine scene. Carlos is particularly renowned for his expertise in preparing Chiles en nogada, a traditional dish from the region. Despite not having published a cookbook ",
+        "recipes": [
+          {
+            "recipeName": "Grilled Chicken",
+            "ingredients": [
+              "chicken breast",
+              "olive oil",
+              "garlic",
+              "lemon",
+              "salt"
+            ],
+            "cookingMethod": "1. Preheat grill to medium-high heat. 2. Brush chicken with olive oil and season with garlic, lemon juice, and salt. 3. Grill chicken for 6 to 8 minutes on each side or until done.",
+            "rating": 4.5,
+            "favorite": false
+          },
+          {
+            "recipeName": "Pesto Pasta",
+            "ingredients": [
+              "pasta",
+              "basil leaves",
+              "garlic",
+              "pine nuts",
+              "parmesan cheese"
+            ],
+            "cookingMethod": "1. Cook pasta according to package instructions. 2. In a food processor, blend basil leaves, garlic, pine nuts, and parmesan cheese. 3. Drain pasta and toss with pesto sauce.",
+            "rating": 4.2,
+            "favorite": true
+          },
+          {
+            "recipeName": "Mushroom Risotto",
+            "ingredients": [
+              "arborio rice",
+              "olive oil",
+              "onion",
+              "mushrooms",
+              "parmesan cheese"
+            ],
+            "cookingMethod": "1. In a saucepan, heat olive oil and sauté onion until soft. 2. Add arborio rice and stir until coated with oil. 3. Gradually add hot water, stirring constantly until rice is tender. 4. Stir in mushrooms and parmesan cheese.",
+            "rating": 4.8,
+            "favorite": false
+          }
+        ]
+  
+      },
+      {  "id": 2,
+        "picture": "https://remezcla.com/wp-content/uploads/2023/04/Elena-Reygadas-Profile-Food-1424x1068.jpg",
+        "name": "Sofia Rodriguez",
+        "years_of_experience": 15,
+        "num_of_recipes": 50,
+        "likes": 12000,
+        "cuisine": "Mexican",
+        "specialty_dish": "Tostadas de tinga",
+        "favorite_ingredient": "Jalapeño",
+        "cookbook_published": true,
+        "awards": ["Best Mexican Chef 2020", "Top 100 Chefs Worldwide"],
+        "restaurant_name": "La Casa de Sofia",
+        "city": "Mexico City",
+        "bio":"Sofia Rodriguez is a well-known chef based in Mexico City, Mexico. With over  years of experience in the culinary industry, she has become one of the top Mexican chefs in the world. Sofia has publish diffenent type of book about cooking",
+        "recipes": [
+          {
+            "recipeName": "Spaghetti Carbonara",
+            "ingredients": [
+              "spaghetti",
+              "bacon",
+              "eggs",
+              "parmesan cheese",
+              "black pepper"
+            ],
+            "cookingMethod": "1. Cook spaghetti according to package instructions. 2. In a skillet, cook bacon until crisp. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the skillet with bacon. 5. Pour in egg mixture and toss until well coated.",
+            "rating": 4.6,
+            "favorite": true
+          },
+          {
+            "recipeName": "Baked Salmon",
+            "ingredients": ["salmon fillet", "lemon", "butter", "garlic", "dill"],
+            "cookingMethod": "1. Preheat oven to 400°F. 2. Season salmon with salt and pepper. 3. In a saucepan, melt butter and add garlic and dill. 4. Pour butter mixture over salmon. 5. Top with lemon slices. 6. Bake for 12-15 minutes or until salmon is cooked through.",
+            "rating": 4.3,
+            "favorite": false
+          },
+          {
+            "recipeName": "Chicken Curry",
+            "ingredients": [
+              "chicken thighs",
+              "onion",
+              "ginger",
+              "garlic",
+              "curry powder"
+            ],
+            "cookingMethod": "1. In a skillet, cook chicken until browned. 2. Remove chicken from skillet and set aside. 3. In the same skillet, cook onion, ginger, and garlic until onion is translucent. 4. Stir in curry powder. 5. Add chicken back to the skillet and stir until coated in sauce. 6. Simmer for 10-15 minutes or until chicken is cooked through.",
+            "rating": 4.9,
+            "favorite": true
+          }
+        ]
+      },
+      {  "id": 3,
+        "picture": "https://agringoinmexico.files.wordpress.com/2015/01/dsc_0079.jpg",
+        "name": "Jorge Martinez",
+        "years_of_experience": 20,
+        "num_of_recipes": 75,
+        "likes": 25000,
+        "cuisine": "Mexican",
+        "specialty_dish": "Tacos al pastor",
+        "favorite_ingredient": "Avocado",
+        "cookbook_published": true,
+        "awards": ["Best Mexican Chef 2018", "Top 50 Chefs in Mexico"],
+        "restaurant_name": "Casa Maria",
+        "city": "Mexico City",
+        "bio":"Jorge Martinez is a renowned Mexican chef based in Mexico City, with over 20 years of experience in the culinary  He is best Chef",
+        "recipes": [
+          {
+            "recipeName": "Spicy Shrimp Stir-Fry",
+            "ingredients": [
+              "shrimp",
+              "vegetable oil",
+              "garlic",
+              "ginger",
+              "bell pepper",
+              "onion",
+              "green beans",
+              "soy sauce",
+              "rice vinegar",
+              "brown sugar",
+              "cornstarch",
+              "red pepper flakes"
+            ],
+            "cookingMethod": "1. Heat oil in a wok or large skillet over high heat. 2. Add shrimp, garlic, and ginger, and stir-fry for 2-3 minutes. 3. Add bell pepper, onion, and green beans, and stir-fry for another 2-3 minutes. 4. In a small bowl, whisk together soy sauce, rice vinegar, brown sugar, cornstarch, and red pepper flakes. 5. Pour sauce into the pan and stir-fry for an additional 1-2 minutes, until sauce thickens and shrimp are cooked through.",
+            "rating": 4.6,
+            "favorite": true
+          },
+          {
+            "recipeName": "Beef Stroganoff",
+            "ingredients": [
+              "beef sirloin",
+              "onion",
+              "mushrooms",
+              "butter",
+              "flour",
+              "beef broth",
+              "sour cream",
+              "egg noodles"
+            ],
+            "cookingMethod": "1. Cut beef into thin strips. 2. In a large skillet, cook beef and onion over medium heat until beef is no longer pink. 3. Remove beef and onion from skillet and set aside. 4. In the same skillet, cook mushrooms in butter until tender. 5. Stir in flour until blended. 6. Gradually stir in beef broth. 7. Bring to a boil; cook and stir for 2 minutes or until thickened. 8. Reduce heat to low; stir in sour cream. 9. Return beef and onion to skillet and heat through. 10. Serve over cooked egg noodles.",
+            "rating": 4.2,
+            "favorite": false
+          },
+          {
+            "recipeName": "Ratatouille",
+            "ingredients": [
+              "eggplant",
+              "zucchini",
+              "yellow squash",
+              "red bell pepper",
+              "onion",
+              "garlic",
+              "tomato",
+              "olive oil",
+              "herbs de Provence"
+            ],
+            "cookingMethod": "1. Preheat oven to 375°F. 2. Cut eggplant, zucchini, and yellow squash into 1/4-inch slices. 3. Core and seed the red bell pepper and cut into thin strips. 4. Chop the onion and mince the garlic. 5. Cut the tomato into 1/4-inch slices. 6. Spread 1/4 cup of the olive oil in a 9x13 inch baking dish. 7. Arrange the sliced vegetables in the baking dish, alternating and overlapping them. 8. Drizzle with the remaining olive oil and sprinkle with herbs de Provence. 9. Bake for 45-50 minutes, or until the vegetables are tender and lightly browned.",
+            "rating": 4.4,
+            "favorite": true
+          }
+        ]
+      },
+      {  "id": 4,
+        "picture": "https://www.foodandwine.com/thmb/Ja1_v2MefAhiZEo2Ke4wcjeXSyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chef-gabriela-camara-at-cala-ft-blog1017-851d7a0f513a468199463284a9a1b42b.jpg",
+        "name": "Isabella Hernandez",
+        "years_of_experience": 8,
+        "num_of_recipes": 25,
+        "likes": 5000,
+        "cuisine": "Mexican",
+        "specialty_dish": "Enchiladas verdes",
+        "favorite_ingredient": "Cilantro",
+        "cookbook_published": false,
+        "awards": [],
+        "restaurant_name": "Taqueria El Sabor",
+        "city": "Tijuana",
+        "bio":"asbella Hernandez Mexico City, Mexico. With over 15 years of experience in the culinary industry, she has become one of  the top Mexican chefs in the world. Sofia has published a cookbook, which has been critically acclaimed for its unique and authentic recipes. She is particularly known for her specialty dish, Tostadas de tinga",
+        "recipes": [
+          {
+            "recipeName": "Vegetable Stir Fry",
+            "ingredients": [
+              "broccoli",
+              "carrots",
+              "bell peppers",
+              "snow peas",
+              "soy sauce"
+            ],
+            "cookingMethod": "1. Heat oil in a wok or large skillet. 2. Add broccoli, carrots, and bell peppers and stir fry for 2-3 minutes. 3. Add snow peas and stir fry for another minute. 4. Add soy sauce and cook for an additional minute.",
+            "rating": 4.0,
+            "favorite": false
+          },
+          {
+            "recipeName": "Spicy Shrimp Tacos",
+            "ingredients": [
+              "shrimp",
+              "taco shells",
+              "lettuce",
+              "tomatoes",
+              "sour cream"
+            ],
+            "cookingMethod": "1. Heat oil in a large skillet. 2. Add shrimp and cook until pink. 3. Fill taco shells with lettuce, tomatoes, and cooked shrimp. 4. Top with a dollop of sour cream.",
+            "rating": 4.5,
+            "favorite": true
+          },
+          {
+            "recipeName": "Beef Stroganoff",
+            "ingredients": [
+              "beef sirloin",
+              "egg noodles",
+              "mushrooms",
+              "sour cream",
+              "beef broth"
+            ],
+            "cookingMethod": "1. Cook egg noodles according to package instructions. 2. In a large skillet, cook beef sirloin until browned. 3. Add mushrooms and cook until tender. 4. Stir in sour cream and beef broth. 5. Serve over cooked egg noodles.",
+            "rating": 4.3,
+            "favorite": false
+          }
+        ]
+      },
+      {  "id": 5,
+        "picture": "https://d3a005dv9q91mu.cloudfront.net/uploads/2016/03/Frontera-10FEB2016-GALDONES-PHOTOGRAPHY-12-e1458242836944.jpg",
+        "name": "Antonio Garcia",
+        "years_of_experience": 12,
+        "num_of_recipes": 40,
+        "likes": 10000,
+        "cuisine": "Mexican",
+        "specialty_dish": "Cochinita pibil",
+        "favorite_ingredient": "Achiote",
+        "cookbook_published": true,
+        "awards": ["Best Yucatecan Cuisine Chef 2021"],
+        "restaurant_name": "Hacienda de Antonio",
+        "city": "Merida",
+         "bio":"Antonio Garcia is a Maxican chef and cookbook author.he is the fortune book write  including Chef at Home and Chef Michael",
+         "recipes": [
+          {
+            "recipeName": "Korean BBQ Beef",
+            "ingredients": [
+              "beef sirloin",
+              "soy sauce",
+              "sugar",
+              "garlic",
+              "sesame oil"
+            ],
+            "cookingMethod": "1. Mix soy sauce, sugar, garlic, and sesame oil in a bowl. 2. Marinate beef in mixture for at least 1 hour. 3. Grill beef on high heat for 3-5 minutes per side or until desired doneness.",
+            "rating": 4.7,
+            "favorite": true
+          },
+          {
+            "recipeName": "Japchae Noodles",
+            "ingredients": [
+              "sweet potato noodles",
+              "spinach",
+              "carrots",
+              "beef",
+              "shiitake mushrooms"
+            ],
+            "cookingMethod": "1. Cook noodles according to package instructions. 2. Sauté spinach, carrots, beef, and mushrooms in a pan. 3. Mix cooked noodles with sautéed ingredients.",
+            "rating": 4.3,
+            "favorite": false
+          },
+          {
+            "recipeName": "Kimchi Fried Rice",
+            "ingredients": [
+              "cooked rice",
+              "kimchi",
+              "bacon",
+              "eggs",
+              "green onions"
+            ],
+            "cookingMethod": "1. Cook bacon in a pan until crispy. 2. Add cooked rice, kimchi, and green onions to the pan. 3. Fry eggs in the pan and place on top of the fried rice.",
+            "rating": 4.5,
+            "favorite": true
+          }
+        ]
+      },
+      {  "id": 6,
+        "picture": "https://static01.nyt.com/images/2018/11/30/obituaries/30QUINTANA-print1/30QUINTANA1-videoSixteenByNineJumbo1600.jpg",
+        "name": "Luisa Hernandez",
+        "years_of_experience": 6,
+        "num_of_recipes": 20,
+        "likes": 4000,
+        "cuisine": "Mexican",
+        "specialty_dish": "Sopa de tort",
+        "cookbook_published": false,
+        "awards": [],
+        "restaurant_name": "Albasino de Antonio",
+         "city": "Merida",
+         "Bio":"Luisa Hernandez ossi is an  chef who has worked in some of the most renowned restaurants in Italy and around the world. He is known for his expertise in regional Italian cuisine, particularly the cuisine Luisa has been awarded multiple Michelin stars throughout his career and has been recognized as one of the top Italian chefs in the world. He currently runs his own restaurant, Osteria Luca, which offers a modern interpretation of traditional Tuscan dishes",
+         "recipes": [
+          {
+            "recipeName": "Fish Tacos",
+            "ingredients": [
+              "tilapia fillets",
+              "taco seasoning",
+              "flour tortillas",
+              "shredded cabbage",
+              "sour cream"
+            ],
+            "cookingMethod": "1. Preheat oven to 375°F. 2. Rub taco seasoning on tilapia fillets and place them on a baking sheet. 3. Bake fish for 12 to 15 minutes. 4. Warm flour tortillas in a skillet. 5. Assemble tacos with shredded cabbage, fish, and a dollop of sour cream.",
+            "rating": 4.6,
+            "favorite": true
+          },
+          {
+            "recipeName": "Chicken Curry",
+            "ingredients": [
+              "boneless chicken thighs",
+              "coconut milk",
+              "curry powder",
+              "onion",
+              "garlic"
+            ],
+            "cookingMethod": "1. In a skillet, sauté onion and garlic until soft. 2. Add chicken and curry powder, and cook until chicken is browned. 3. Add coconut milk and simmer for 15 to 20 minutes, stirring occasionally.",
+            "rating": 4.3,
+            "favorite": false
+          },
+          {
+            "recipeName": "Caprese Salad",
+            "ingredients": [
+              "tomatoes",
+              "fresh mozzarella",
+              "fresh basil",
+              "balsamic vinegar",
+              "olive oil"
+            ],
+            "cookingMethod": "1. Slice tomatoes and fresh mozzarella. 2. Arrange the tomato and mozzarella slices on a plate. 3. Drizzle balsamic vinegar and olive oil over the salad. 4. Garnish with fresh basil leaves.",
+            "rating": 4.7,
+            "favorite": true
+          }
+        ]
+    },
+     { "id": 7,
+     "picture": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2022_18/1868552/rick-martinez-te-main-220504.jpg",
+      "name": "Diego Rodriguez",
+     "years_of_experience": 18,
+     "num_of_recipes": 60,
+     "likes": 15000,
+    "cuisine": "Mexican",
+    "specialty_dish": "Mole negro",
+    "favorite_ingredient": "Chocolate",
+    "cookbook_published": true,
+     "awards": ["Best Mexican Chef 2022", "Top 10 Chefs in Latin America"],
+     "restaurant_name": "El Comal",
+      "city": "Oaxaca",
+      "bio":"Diego Rodriguez chef who has become known for her innovative and creative approach to traditional Japanese cuisine. She has worked in some of the most respected restaurants in Tokyo and New York, and has been awarded multiple Michelin stars throughout her career. Ayumi's restaurant, Nakamura  offers a unique dining experience that combines traditional Japanese techniques with modern ingredients and flavors",
+      "recipes": [
+        {
+          "recipeName": "Tacos al Pastor",
+          "ingredients": ["pork shoulder", "pineapple", "achiote paste", "dried guajillo chiles", "garlic"],
+          "cookingMethod": "1. Cut pork shoulder into thin slices. 2. Blend pineapple, achiote paste, dried guajillo chiles, garlic, and a bit of water to create a marinade. 3. Marinate pork for at least 2 hours. 4. Cook pork on a hot grill or skillet until slightly charred. 5. Serve on tortillas with chopped onion, cilantro, and salsa.",
+          "rating": 4.9,
+          "favorite": true
+        },
+        {
+          "recipeName": "Chiles Rellenos",
+          "ingredients": ["poblano peppers", "ground beef", "tomatoes", "onion", "garlic"],
+          "cookingMethod": "1. Roast poblano peppers until skin is charred. 2. Remove skin and seeds from peppers. 3. Cook ground beef with tomatoes, onion, and garlic. 4. Stuff peppers with beef mixture. 5. Dip stuffed peppers in egg batter and fry until golden brown.",
+          "rating": 4.6,
+          "favorite": false
+        },
+        {
+          "recipeName": "Sopaipillas",
+          "ingredients": ["flour", "baking powder", "salt", "lard", "honey"],
+          "cookingMethod": "1. Mix flour, baking powder, salt, and lard to create a dough. 2. Roll out dough and cut into triangles. 3. Fry triangles in hot oil until puffed and golden brown. 4. Serve drizzled with honey.",
+          "rating": 4.2,
+          "favorite": false
+        }
+      ]
+       
+  }
+  ]
+  }
